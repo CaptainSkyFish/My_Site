@@ -8,13 +8,18 @@ h1{
     color: #9ec8b9;
     margin-top: 0px;
     font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0px;
 }
 
 h2{
+    color: #9ec8b9f6;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
+
 h3{
-    
+    color: #5C8374;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -23,19 +28,13 @@ h3{
     position: relative;
     padding-top: 100px;
 }
-.mid-container{
-    height: 200px;
-    width: 200px;
-    background-color: bisque;
-}
-.bottom-container{
-    height: 200px;
-    width: 200px;
-    background-color: powderblue;
-}
 
 .pro{
     text-decoration: underline;
+}
+
+.ajay_picture{
+    width: 200px;
 }
 
 .top-cloud{
@@ -48,4 +47,8 @@ h3{
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.footer-link{
+    color: #5C8374;
 }
